@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:KleurenKiezer"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary Source="Resources/turquoise.xaml"></ResourceDictionary>
     </Application.Resources>
 </Application>

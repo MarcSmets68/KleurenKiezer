@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace KleurenKiezer
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for BrushesWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class BrushesWindow : Window
     {
-        public MainWindow()
+        public BrushesWindow()
         {
             InitializeComponent();
         }
